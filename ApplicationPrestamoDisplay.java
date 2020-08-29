@@ -24,6 +24,9 @@ public class ApplicationPrestamoDisplay {
         FormDisplay p = new FormDisplay(); 
         p.setVisible(true);
         p.show(p.getPrestamo());
+        System.out.println("Cambio para el commit");
+        System.out.println("COMMIT NÚMERO DOS!!");
+
     }
     
 }
