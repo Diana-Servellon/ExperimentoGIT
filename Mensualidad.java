@@ -21,6 +21,7 @@ public class Mensualidad {
         amortizationAmount = am; 
         payment = pp; 
     }
+    // he creado un nuevo comentario...rama de prueba adicional
 
     public int getNumber() {
         return number;
@@ -37,7 +38,7 @@ public class Mensualidad {
     public void setCurrentAmount(double currentAmount) {
         this.currentAmount = currentAmount;
     }
-
+    //Este es otro nuevo comentario.... rama de prueba adicional
     public double getInterestAmount() {
         return interestAmount;
     }

@@ -30,6 +30,10 @@ public class ApplicationPrestamoDisplay {
         System.out.println("Este texto lo coloque en la rama: NuevaRama");
         
         System.out.println("Este texto lo he creado en VS Code en la rama prueba adicional");
+        System.out.println("Nunca es tarde para aprender algo nuevo"); 
+
+        System.out.println("Nunca es tarde para aprender algo nuevo"); 
+        
 
     }
     
