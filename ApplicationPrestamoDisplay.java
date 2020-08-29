@@ -26,6 +26,9 @@ public class ApplicationPrestamoDisplay {
         p.show(p.getPrestamo());
         System.out.println("Cambio para el commit");
         System.out.println("COMMIT NÚMERO DOS!!");
+        
+        System.out.println("Este texto lo coloque en la rama: NuevaRama");
+        
 
     }
     
